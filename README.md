@@ -25,7 +25,7 @@ Local copies of these notebooks are included under the `Kaggle/` directory:
 
 You can open and run these locally as long as you have the required dependencies and data in place.
 
-### Repository Contents (minimal)
+### Repository Contents 
 
 - `preprocess.py` – scripts for preprocessing the GRPOLY (and related) datasets into line-level images and labels.
 - `extract_printed_lines.py` – utilities for extracting printed lines and generating CSV annotations.
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 - To reproduce preprocessing steps, run `preprocess.py` and/or `extract_printed_lines.py` as described in the Kaggle notebooks.
 - To explore or rerun experiments, open:
-  - `Kaggle/Pre_Train.ipynb` for data preparation and model training.
-  - `Kaggle/Demo OCR Comparison (1).ipynb` for the OCR comparison demo.
+  - [https://www.kaggle.com/code/philipbooth26/pre-train] for data preparation and model training.
+  - [https://www.kaggle.com/code/philipbooth26/demo-ocr-comparison] for the OCR comparison demo.
 
 
