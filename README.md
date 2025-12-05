@@ -15,9 +15,9 @@ The core workflow is:
 The main notebooks for this project were originally developed and run on Kaggle:
 
 - **Pre-training notebook** (original Kaggle version):  
-  `[Kaggle Pre-Train Notebook](https://www.kaggle.com/code/philipbooth26/pre-train)`
+  [Kaggle Pre-Train Notebook](https://www.kaggle.com/code/philipbooth26/pre-train)
 - **Demo OCR comparison notebook** (original Kaggle version):  
-  `[Kaggle Demo OCR Comparison Notebook](https://www.kaggle.com/code/philipbooth26/demo-ocr-comparison)`
+  [Kaggle Demo OCR Comparison Notebook](https://www.kaggle.com/code/philipbooth26/demo-ocr-comparison)
 
 Local copies of these notebooks are included under the `Kaggle/` directory:
 - `Kaggle/Pre_Train.ipynb`
